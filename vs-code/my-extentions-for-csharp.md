@@ -1,6 +1,6 @@
 # my-extentions-for-csharp
 
-## My Visual Studio Extensions for C# development
+My Visual Studio Extensions for C# development
 
 - Dracula Official - For color theme
 - C# - C# tooling for VS Code
